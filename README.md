@@ -11,6 +11,12 @@ Setelah itu, klik ***Sign up for Github***, lalu akan muncul seperti ini :
 
 ![sign up](https://github.com/kameliacindy/LatihanVCS/blob/master/gambar/Img_4.png)
 
-Pada langkah ini, Anda harus mengisi sesuai dengan perintahnya untuk membuat akun Github pada Step 1 dan mengikuti sampai selesai pada Step 3
+Pada langkah ini, Anda harus mengisi sesuai dengan perintahnya untuk membuat akun Github pada Step 1 dan mengikuti sampai selesai pada Step 3.
+## 3. Membuat Repository Baru
+Lihat pada pojok kanan atas halaman lalu klik ikon **"+"** dan klik **"New Repository"** 
+
+![img new repo](https://github.com/kameliacindy/LatihanVCS/blob/master/gambar/img%20new%20repo.jpeg)
+
+
 
 

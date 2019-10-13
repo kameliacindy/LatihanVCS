@@ -5,7 +5,7 @@ Silakan Anda download dan install aplikasi git dalam website resminya Git (git-s
 ## 2. Membuat akun Github
 Langkah selanjutnya, kita akan membuat akun Github terlebih dahulu. Silakan klik dan kunjungi website resminya Github, dan akan muncul tampilan seperti di bawah ini:
 
-![img daftar repo] (https://github.com/kameliacindy/LatihanVCS/blob/master/gambar/img%20daftar%20repo.jpeg)
+![img daftar repo](https://github.com/kameliacindy/LatihanVCS/blob/master/gambar/img%20daftar%20repo.jpeg)
 
 Setelah itu, klik ### Sign up for Github, lalu akan muncul seperti ini :
 

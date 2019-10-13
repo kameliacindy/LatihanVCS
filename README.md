@@ -7,9 +7,9 @@ Langkah selanjutnya, kita akan membuat akun Github terlebih dahulu. Silakan klik
 
 ![img daftar repo](https://github.com/kameliacindy/LatihanVCS/blob/master/gambar/img%20daftar%20repo.jpeg)
 
-Setelah itu, klik ### Sign up for Github, lalu akan muncul seperti ini :
+Setelah itu, klik ***Sign up for Github***, lalu akan muncul seperti ini :
 
-! [sign up] 
+![sign up](https://github.com/kameliacindy/LatihanVCS/blob/master/gambar/Img_4.png)
 
 Pada langkah ini, Anda harus mengisi sesuai dengan perintahnya untuk membuat akun Github pada Step 1 dan mengikuti sampai selesai pada Step 3
 

@@ -19,7 +19,8 @@ Lihat pada pojok kanan atas halaman lalu klik ikon **"+"** dan klik **"New Repos
 
 Lalu, akan muncul tampilan seperti di bawah ini :
 
-![img sign up]
+![img sign up](https://github.com/kameliacindy/LatihanVCS/blob/master/gambar/img%20sign%20up.jpeg)
+
 
 Dan kita akan mengisi kolom **"Repository name"** dengan nama **"Latihan1"**. Lalu, klik **"Create Repository"**.
 ## 4. Menghubungkan dengan Git
